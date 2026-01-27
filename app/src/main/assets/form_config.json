@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "type": "text",
+      "label": "Enter Name",
+      "id": "name"
+    },
+    {
+      "type": "text",
+      "label": "Enter Email",
+      "id": "email"
+    },
+    {
+      "type": "dropdown",
+      "label": "Select Gender",
+      "id": "gender",
+      "options": ["Male", "Female", "Other"]
+    },
+    {
+      "type": "checkbox",
+      "label": "Accept Terms and Conditions",
+      "id": "terms"
+    }
+  ]
+}
